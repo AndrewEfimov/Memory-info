@@ -8,9 +8,9 @@ Description:
 
 Information on the use of RAM. Displays a list of processes (Android 4.1 - 5) and detailed information on them.
 
-Google Play: https://play.google.com/store/apps/details?id=com.infocean.memoryinfo
+Google Play: [Memory info](https://play.google.com/store/apps/details?id=com.infocean.memoryinfo)
 
-Blog: http://delphifmandroid.blogspot.ru/2017/03/blog-post.html 
+Blog: [Как получить информацию о потреблении ОЗУ?](http://delphifmandroid.blogspot.ru/2017/03/blog-post.html) 
 
 Delphi 10.1 Berlin Update 2
 
