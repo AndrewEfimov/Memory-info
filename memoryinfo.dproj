@@ -410,7 +410,7 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="icons\memory-chip_icon-icons.com_36.png" Configuration="Debug" Class="Android_LauncherIcon36">
+                <DeployFile LocalName="icons\four\36.png" Configuration="Debug" Class="Android_LauncherIcon36">
                     <Platform Name="Android">
                         <RemoteName>ic_launcher.png</RemoteName>
                         <Overwrite>true</Overwrite>
